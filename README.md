@@ -42,41 +42,11 @@
 | 临时情侣 | [https://t.me/+9UtuvRgMTGc5MmM0](https://t.me/+9UtuvRgMTGc5MmM0)|  骗子(Scammer)    |
 | 叔叔约我 | [https://t.me/+zaFgWOsUSPoyNWRk](https://t.me/+zaFgWOsUSPoyNWRk)|  骗子(Scammer)    |
 
-### 机场节点推荐
-| 名字        |                                  链接                                 | 功能描述                                          |
-| :-------- | :-----------------------------------------------------------------: | :-------------------------------------------- |
-| 闪连VPN      |       [官网](https://lightningxvpn.com/download?inviteCode=55151480)      | VPN首选！提供安全、稳定和快速的网络连接 |
-| 狗狗加速      |       [官网](https://www.dginv.click/#/register?code=ZyMzTvB7)      | 集群负载均衡，不限速，无审计，高速专线，Hysteria2协议，解锁流媒体及ChatGPT |
-| 耐思云       |  [官网](https://9haclbv160tudxwi.nc18.top/#/register?code=CwIEuyNf) | 初级套餐￥12/月，50GB流量，支持3设备，国内中转优化，流媒体与ChatGPT加速   |
-| 600mlh矿泉水 |         [官网](https://02d.600mlh.cc/register?code=xbKVzcN5)        | 节点30+，覆盖港澳台、日韩、新加坡、欧美等地区                      |
-| River VPN |    [官网](https://v5w6x7.river-vpn.ink/#/register?code=wJBT57t1)    | 全解锁全球视频网站、ChatGPT、Telegram、YouTube            |
-| FlyBit    |       [官网](https://www.flybit3.vip/#/register?code=PCRCZ7uE)      | 月付10起，100GB/月，设备不限，解锁流媒体和ChatGPT，支持SS协议       |
-| SuperBiu  |        [官网](https://superbiu.com/#/register?code=A2Qhd5vz)        | ￥9/月，50GB流量，IPLC传输，支持流媒体/GPT，限大陆个人使用          |
-| CAC Apex  |       [官网](https://www.cacapex.com/#/register?code=zEtWBeYg)      | 月付¥4.9，500GB流量，3000Mbps，流媒体与ChatGPT解锁         |
-| 老猫云       |        [官网](https://laomao.biz?path=register&code=JGCKGHWa)       | Trojan协议+IEPL专线，最高1000Mbps，50+节点              |
-| 放心云       |      [官网](https://web1.wowfxy.com/#/register?code=Z0i3YPhk)      | 1000Mbps不限速，全解锁流媒体，3天免费试用                     |
-| 易连VPN     |         [官网](https://easylink.bar/register?code=1oqy2e26)         | 永久无限流量，1000Mbps不限速，解锁流媒体与ChatGPT，3天试用         |
-| 狗狗云       | [官网](https://www.gougouvpn.top/index.php#/register?code=HnqZeoHA) | 老牌公益VPN，稳定品质                                  |
-| 起帆        |         [官网](https://www.qf1.us/#/register?code=ziz13huH)         | 首家支持Hysteria协议，高速8K视频，解锁ChatGPT和流媒体           |
-| Tomcat    |        [官网](https://teacat.cloud/#/register?code=wcln0rZa)        | 12元50GB，性价比选择                                 |
-| 飞兔云       |   [官网](https://xn--9kq10e0y7h.site/index.html?register=eA38wttl)  | 60+国家节点，全中转，高速稳定，解锁流媒体和ChatGPT                |
-| 淘气兔       |     [官网](https://www.taoqitu.me/index.html?register=1ab3e6wq)     | 全中转线路，4K秒开，解锁流媒体/ChatGPT                      |
-| FreeCloud |           [官网](https://asus.im/#/register?code=gzE3PgDa)          | 按流量计费不限时，解锁流媒体                                |
-| 红杏加速器     |      [官网](https://hongxingyun.xyz/web/#/login?code=wbzHC0lN)      | 高速稳定VPN                                       |
-| FSCloud   |      [官网](https://dash.996cloud.top/#/register?code=14lShPOs)     | 1元100G，超高性价比                                  |
-| 烤肠云       |     [官网](https://reborn.kaochang.ltd/#/register?code=WE8qrNPG)    | 1元2G测试套餐                                      |
-| M78星云     |        [官网](https://m78star.cloud/#/register?code=MLBEu8Zi)       | 高端IEPL/IPLC线路，赠送Emby，解锁流媒体与ChatGPT            |
-| OKCLOUD机场 |        [官网](https://okokcloud.top/#/register?code=vZRXNDss)       | 稳定高速SS/SSR节点，7天试用，解锁Netflix/HBO等              |
-| 魔戒        |         [官网](https://mojie.info/#/register?code=vv0sB50W)         | 性价比高，Trojan和Vmess协议，流量包不限时                    |
-| MDSSCLOUD |         [官网](https://mojie.info/#/register?code=vv0sB50W)         | IEPL/CC/BGP专线，最高3000Mbps，强大SLA保证              |
-| 尼尔云       |        [官网](https://niercloud.com/#/register?code=rmfG8Tfl)       | ¥15/月，115GB流量                                 |
-| 青云梯机场     |     [官网](https://qytaffcc01.qytaff.pro/register?aff=3kRr38Lo)     | 支持解锁Netflix、Disney+、ChatGPT，覆盖多国节点            |
-| 飞天猪       |  [官网](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | Trojan协议，IEPL专线，3000Mbps，支持流媒体/ChatGPT        |
-| v2lnk     |  [官网](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | 免费试用，一键连接，解锁GPT                               |
-| NiceDuck  |        [官网](https://my.niceduck.io/register?code=b5QXpg3C)        | 高SLA，支持流媒体/ChatGPT，赠送3家Emby资源                 |
-| Hostbrr   |        [官网](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 大硬盘存储VPS，Hetzner德国机房                          |
-| BuyVM     |        [官网](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 高性价比VPS，机房覆盖卢森堡/美国多个城市                        |
-| RackBerd  |           [官网](https://my.racknerd.com/aff.php?aff=6211)          | VPS主机，7个美国机房可选，成立于2019年                       |
+### 2025优质稳定机场节点五星推荐
+| 名字        |                                链接                                 | 功能描述                                          |
+| :-------- | :---------------------------------------------------------------: | :-------------------------------------------- |
+| 喵子科学站     |   [官方网站](https://fly.mzkxz.top/auth/register?code=B4w3)    | VPN首选！提供安全、稳定和快速的网络连接                         |
+| 宝贝云     |    [官方网站](https://web1.bby011.com/#/register?code=MXAqpLXS)       | 极致流畅带来丝滑享受，流媒体全解锁，新疆可用，60+节点遍布全球30+国家，免费苹果id，八年老厂，新加坡实力团队，可按量付费 |
 
 ### 交易所提币或者是购买USDT、币圈撸空投
 **❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
@@ -84,15 +54,9 @@
 **❗❗️️❗别用乱用网上的钱包接收款项，只有交易所里面的钱才不存在黑钱黑U❗️❗️❗️**
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
-| 欧易OKX    |   [https://www.okx.com](https://www.chouyi.pro/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
-| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=4VLKDMW)   |      ByBit交易所(减免30%手续费)邀请码：**4VLKDMW**|
-| Bitget    |   [https://www.bitget.com](https://www.bitget.org/zh-CN/referral/register?clacCode=QR4A7MPY&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)   |      Bitget交易所(减免40%手续费)邀请码：**QR4A7MPY**|
-| Gate.io    |   [https://www.gatesee.com](https://www.gatesee.com/signup/VLDFUFEOAW?ref_type=103)   |     Gate.io交易所(减免40%手续费)邀请码：**VLDFUFEOAW**|
-| 火币    |   [https://www.htx.com](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
-| 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
+| 币安    |   [https://www.binance.com](https://accounts.maxweb.black/register?ref=199346549)   | 邀请码：**199346549**，币安交易所(持有bnb减免20%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
+| 欧易OKX    |   [https://www.okx.com](https://www.jingshieng.org/join/19826043)   |      欧易交易所(减免30%手续费)邀请码：**19826043** ，OKX Boost(20%减免手续费)邀请码：**GIGIFANLI**|
 
-![](https://imgur.com/MlRDjeU.png)
 
 ## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
 ![](https://i.imgur.com/Ba6epuD.png)
