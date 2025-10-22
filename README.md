@@ -47,15 +47,8 @@
 |名字|链接|功能描述|
 |:--|:-:|:--|
 |喵子加速|[官网](https://fly.mzkxz.top/auth/register?code=B4w3)|VPN首选！提供安全、稳定和快速的网络连接|
-|宝贝云|[官网](https://web1.bby011.com/#/register?code=MXAqpLXS)|极致流畅带来丝滑享受，流媒体全解锁，新疆可用，60+节点遍布全球30+国家，免费苹果id，八年老厂，新加坡实力团队，可按量付费|
-### 机场节点推荐
+|宝贝云|[官网](https://web1.bby011.com/#/register?code=MXAqpLXS)|极致流畅带来丝滑享受，流媒体全解锁，新疆可用，60+节点遍布全球30+国家|
 
-[](https://github.com/itgoyo/TelegramGroup#%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90)
-
-|名字|链接|功能描述|
-|:--|:-:|:--|
-|闪连VPN|[官网](https://lightningxvpn.com/download?inviteCode=55151480)|VPN首选！提供安全、稳定和快速的网络连接|
-|狗狗加速|[官网](https://www.dginv.click/#/register?code=ZyMzTvB7)|集群负载均衡，不限速，无审计，高速专线，Hysteria2协议，解锁流媒体及ChatGPT|
 ### 区块链头部交易所提币或者是购买USDT、币圈撸空投
 **❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
 
