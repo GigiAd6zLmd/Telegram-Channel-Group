@@ -5,7 +5,7 @@
 <div align="center">
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
  ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<br>
- <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://www.tg10000.com">https://www.tg10000.com</a>  <a>商务合作:</a> <a href="mailto:crypterro@gmail.com">crypterro@gmail.com</a><br>
+ <a>Telegram中文频道:</a> <a href="https://t.me/bb5nnn">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://www.telebake.com">https://www.telebake.com</a>  <a>商务合作:</a> <a href="mailto:crypterro@gmail.com">crypterro@gmail.com</a><br>
   ❗️国内用户(包括台湾省)电报名字最好使用<strong>中文</strong>，由于协议号泛滥，<strong>英文和拼音</strong>名字容易被风控封号❗️<br><br>
 </div>
 
@@ -41,15 +41,6 @@
 | 围场少女 | [https://t.me/+QnxR39vELHJiYzUy](https://t.me/+QnxR39vELHJiYzUy)|  骗子(Scammer)    |
 | 临时情侣 | [https://t.me/+9UtuvRgMTGc5MmM0](https://t.me/+9UtuvRgMTGc5MmM0)|  骗子(Scammer)    |
 | 叔叔约我 | [https://t.me/+zaFgWOsUSPoyNWRk](https://t.me/+zaFgWOsUSPoyNWRk)|  骗子(Scammer)    |
-
-### 推广50U/月 
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
-|gmgn.ai|[gmgn.ai](https://gmgn.ai/r/L2wVVjGF)| 注于meme币追踪与交易辅助 的平台，通过“聪明资金”监控、链上数据分析、复制交易和风险提示等功能帮助用户发掘潜力币种|
-| hyperbot.network | [@hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15) | 由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能 |
-|奈飞小铺                             | [https://ihezu.fans](https://ihezu.fans/uqhwcn)          | 网飞、Spotify、Apple Music、油管、微软365合租，专属9折优惠码：FANXIAN   |
-
 
 ### 机场节点推荐
 | 名字        |                                  链接                                 | 功能描述                                          |
@@ -102,29 +93,6 @@
 | 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
 
 ![](https://imgur.com/MlRDjeU.png)
-
-### 机器人搭建有需要联系:[@tgxiunv](https://t.me/tgxiunv)
-| 项目                                       | 说明                                              | 价格            |
-| ------------------------------------------ | ------------------------------------------------- | --------------- |
-| 修女频道搬运                                | 搬运整个频道10U，自行联系：[@tgxiunv](https://t.me/tgxiunv) | 10U   |
-| 自动按钮机器人                                | 轻松给频道帖子加按钮广告[@xnanniubot](https://t.me/xnanniubot)，使用教程：[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |    50U          |
-| 消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
-| 频道搬运机器人   |机器人[@xnby05bot](https://t.me/xnby05bot) | 100U |
-| 频道监听转发机器人   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制 | 100U |
-| tdl                          | 电报下载神器搭建,自行联系[@tgxiunv](https://t.me/tgxiunv)，使用教程:[视频教程](https://www.youtube.com/watch?v=h_r1_I6Busk)| 50U或¥300   |
-| 直播录制软件      | [软件安装教程](https://www.bilibili.com/video/BV1XqHkzCEpN/) | 可实现自动录制全网直播，自动投稿到B站上,不会可以找我帮搭建¥100           |
-| 波场靓号生成器(8a、9a、10a等豹子顺子靓号)                         | 电脑有显卡直接跑，跑出来的速度看显卡 | 100U            |
-| 自动转发频道机器人(涨粉神器)                          | 自动监听搬运别人频道内容,提供源码及搭建服务[@tgxiunv](https://t.me/tgxiunv) | 100U            |
-| 自动转发频道机器人（文末自定义文案）       | 自动搬运别人频道内容并可自定义文案，效果查看：[@alidriver4k](https://t.me/alidriver4k) | 140U            |
-| 频道导航网站      | 效果查看：[tg10000.com](https://tg10000.com) | ¥200    [搭建教程](https://www.bilibili.com/video/BV13b5izgE28)            |
-| 独角数卡网站      | 效果查看：[shop.tg10000.com](https://shop.tg10000.com) | 单网站:¥150，网站+对接支付:¥300或40U，请准备服务器和域名           |
-| 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 |[官网地址](https://qunfaqi.github.io),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买: [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)   | ¥199         |
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://i.imgur.com/9E65XRH.png" alt="彩虹群发器破解版免费" style="width: 30%;"/>
-  <img src="https://i.imgur.com/9MxAREe.png" alt="彩虹群发器破解版" style="width: 30%;"/>
-  <img src="https://i.imgur.com/o32jV8y.png" alt="彩虹群发电报神器" style="width: 30%;"/>
-</div>
-
 
 ## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
 ![](https://i.imgur.com/Ba6epuD.png)
