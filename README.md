@@ -8,8 +8,9 @@ Telegram百科频道: [@bb5nnn](https://t.me/bb5nnn) 官方网站:[https://www
 | 名字      |                              链接                               | 功能描述                        |
 | :------ | :-----------------------------------------------------------: | :-------------------------- |
 | SOSO搜索  |         [@soso](https://t.me/soso?start=a_7769080727)         | 发送关键词来寻找群组、有趣频道或福利视频，好看的群组。 |
-| 极搜JiSo  |      [@jisou](https://t.me/jisou1Bot?start=a_7769080727)      | 发送关键词帮你轻松找到有趣的群组/频道、视频、音乐   |
-| 快搜      | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7769080727) | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 极搜JiSo  |      [@jisou](https://t.me/jisou1Bot?start=a_7769080727)      | 发送关键词帮你轻松找到有趣的群组/频道、视频、音乐。   |
+| 快搜      | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7769080727) | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻。|
 | i快搜     |    [@ikuaisobot](https://t.me/ikuaisobot?start=7769080727)    | 再小的个体也有自己的品牌。               |
 | Super搜索 |       [@Super](https://t.me/Super?start=ref-7769080727)       | 查找群组、频道、影视、音乐或机器人           |
 | 神马搜索    |      [@smss](https://t.me/smss?start=spread_7769080727)       | 发送词语即可搜索关联群组与频道资源           |
+
