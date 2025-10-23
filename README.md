@@ -185,11 +185,6 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 | wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付|
 | okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--7202424896)       |可用于店租（Amazon、Shopify、Shope等）、广告（Facebook、Google等）、云服务、游戏、开发者应用、海淘购物等全场景支付。|
 
-### 常用机器人
-
-🔥Telegram专门的机器人合集🔥：[https://github.com/itgoyo/TelegramBot](https://github.com/itgoyo/TelegramBot)
-
-
 #### 联系 Telegram 官方/客服:
 
 * App→设置→帮助与反馈
