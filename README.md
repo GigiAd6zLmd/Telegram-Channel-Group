@@ -5,7 +5,7 @@
 <div align="center">
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
  ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<br>
- <a>Telegram中文频道:</a> <a href="https://t.me/bb5nnn">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://www.telebake.com">https://www.telebake.com</a>  <a>商务合作:</a> <a href="mailto:crypterro@gmail.com">crypterro@gmail.com</a><br>
+ <a>Telegram中文频道:</a> <a href="https://t.me/bb5nnn">@bb5nnn</a>  <a>官方网站:</a> <a href="https://www.telebake.com">https://www.telebake.com</a>  <a>商务合作:</a> <a href="mailto:crypterro@gmail.com">crypterro@gmail.com</a><br>
   ❗️国内用户(包括台湾省)电报名字最好使用<strong>中文</strong>，由于协议号泛滥，<strong>英文和拼音</strong>名字容易被风控封号❗️<br><br>
 </div>
 
@@ -21,8 +21,11 @@
 | i快搜     |    [@ikuaisobot](https://t.me/ikuaisobot?start=7769080727)    | 再小的个体也有自己的品牌。               |
 | Super搜索 |       [@Super](https://t.me/Super?start=ref-7769080727)       | 查找群组、频道、影视、音乐或机器人           |
 | 神马搜索    |      [@smss](https://t.me/smss?start=spread_7769080727)       | 发送词语即可搜索关联群组与频道资源           |
+| 搜索群①   | [@ssogoogle](https://t.me/ssogoogle) | 可以在里面搜索你想要的一切 |
+| 搜索群②   | [@ssobaidu](https://t.me/ssobaidu) | 可以在里面搜索你想要的一切 |
 
 ### 曝光不良频道，请勿轻信(Scammer)
+
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
@@ -46,10 +49,10 @@
   
 |名字|链接|功能描述|
 |:--|:-:|:--|
-|喵子加速|[官网](https://fly.mzkxz.top/auth/register?code=B4w3)|VPN首选！提供安全、稳定和快速的网络连接|
+|喵子加速器|[官网](https://fly.mzkxz.top/auth/register?code=B4w3)|VPN首选！提供安全、稳定和快速的网络连接|
 |宝贝云|[官网](https://web1.bby011.com/#/register?code=MXAqpLXS)|极致流畅带来丝滑享受，流媒体全解锁，新疆可用，60+节点遍布全球30+国家|
 
-### 区块链头部交易所提币或者是购买USDT、币圈撸空投
+### 区块链交易所提币或者是购买USDT、币圈撸空投
 **❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
 
 **❗❗️️❗别用乱用网上的钱包接收款项，只有交易所里面的钱才不存在黑钱黑U❗️❗️❗️**
