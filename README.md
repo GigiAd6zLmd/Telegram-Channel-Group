@@ -17,6 +17,7 @@
 | :------ | :-----------------------------------------------------------: | :-------------------------- |
 | SOSO搜索  |         [@soso](https://t.me/soso?start=a_7769080727)         | 发送关键词来寻找群组、有趣频道或福利视频，好看的群组。 |
 | 极搜JiSo  |      [@jisou](https://t.me/jisou1Bot?start=a_7769080727)      | 发送关键词帮你轻松找到有趣的群组/频道、视频、音乐   |
+|超级索引CJSY| [@CJSY](https://t.me/CJSY?start=7769080727)|TG必备神器，找到您感兴趣的群组、频道和机器人！|
 | 快搜      | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7769080727) | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | i快搜     |    [@ikuaisobot](https://t.me/ikuaisobot?start=7769080727)    | 再小的个体也有自己的品牌。               |
 | Super搜索 |       [@Super](https://t.me/Super?start=ref-7769080727)       | 查找群组、频道、影视、音乐或机器人           |
