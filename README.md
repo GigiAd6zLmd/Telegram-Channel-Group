@@ -52,7 +52,10 @@
 |喵子加速器|[官网](https://fly.mzkxz.top/auth/register?code=B4w3)|VPN首选！提供安全、稳定和快速的网络连接|**B4w3**|
 |宝贝云|[官网](https://web1.bby011.com/#/register?code=MXAqpLXS)|极致流畅丝滑享受，流媒体全解锁，新疆可用，60+节点遍布全球|**MXAqpLXS**|
 |星链云|[官网](https://starlinkcloud.icu/#/register?code=eBNPa762)|探索全球网络无限可能|**eBNPa762**|
+|CokeCloud(可乐云)|[官网](https://cokeyun.buyzur.com/#/register?code=QmiZ4aHo)|IPLC专线线路,专属客户端|**QmiZ4aHo**|
+
 ### 区块链交易所提币或者是购买USDT、币圈撸空投
+
 **❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
 
 **❗❗️️❗别用乱用网上的钱包接收款项，只有交易所里面的钱才不存在黑钱黑U❗️❗️❗️**
