@@ -3,7 +3,7 @@
  * @telegram: @vvvvvbots
 -->
 <div align="center">
-<strong> 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<a>Telegram中文频道:</a><a>href="https://t.me/bb5nnn">@bb5nnn</a>  <a>官方网站:</a> <a href="https://www.tg0001.com">www.tg0001.com</a>  <a>商务合作:</a> <a href="mailto:crypterro@gmail.com">crypterro@gmail.com</a><br>
+<strong> 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<a>Telegram中文频道:</a> <a href="https://t.me/bb5nnn">@bb5nnn</a>  <a>官方网站:</a> <a href="https://www.tg0001.com">www.tg0001.com</a>  <a>商务合作:</a> <a href="mailto:crypterro@gmail.com">crypterro@gmail.com</a><br>
   ❗️国内用户(包括台湾省)电报名字最好使用<strong>中文</strong>，由于协议号泛滥，<strong>英文和拼音</strong>名字容易被风控封号❗️<br>❗️喜欢本项目右上角点个（Star）吧❗️</strong>
 </div><br><br>
 <img src="https://i.imgur.com/ywjcaE6.png" alt="USDT">
