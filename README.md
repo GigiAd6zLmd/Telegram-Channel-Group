@@ -6,10 +6,8 @@
 <strong> <h3>【机场推荐】2025年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)<br>
  ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️
  <a>Telegram中文频道:</a> <a href="https://t.me/bb5nnn">@bb5nnn</a>  <a>官方网站:</a> <a href="https://www.tg0001.com">www.tg0001.com</a>  <a>商务合作:</a> <a href="mailto:crypterro@gmail.com">crypterro@gmail.com</a><br>
-  ❗️国内用户(包括台湾省)电报名字最好使用<strong>中文</strong>，由于协议号泛滥，<strong>英文和拼音</strong>名字容易被风控封号❗️<br>❗️喜欢本项目右上角点个（Star）吧❗️</strong><h3><br>
+  ❗️国内用户(包括台湾省)电报名字最好使用<strong>中文</strong>，由于协议号泛滥，<strong>英文和拼音</strong>名字容易被风控封号❗️<br>❗️喜欢本项目右上角点个（Star）吧❗️</strong><h3>
 </div><br><br>
-</div>
-
 <img src="https://i.imgur.com/ywjcaE6.png" alt="USDT">
 
 ### 搜索机器人(❗️中文用户名，例如『杜罗夫』只要是中文昵称就送USDT❗️英文名字和字母、拼音等没有收益❗️多使用以下搜索，否则玩不明白电报)
