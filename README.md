@@ -53,7 +53,7 @@
 | CC(可乐云)      |  [官网](https://cokeyun.buyzur.com/#/register?code=QmiZ4aHo)   | IPLC专线线路,专属客户端                           | 暂无   |
 | CC(最萌の云)     |   [官网](https://main.cute-cloud.de/register?code=BEj51dOv)    | 全独家隧道技术、智能接入点分配、先进的流媒体解锁                 | 暂无   |
 | 快柠檬Falemon   |          [官网](https://corelem.org/s/win110/rvijesy)          | 快如闪电，专为中国用户优化加速的优质网络中继 | 暂无   |
-| 闪电猫-SPEEDCAT | [官网](https://webinv02.sc-aff.cc/auth/register?code=VfOmNcC2) | 主打快速稳定，全专线IPLC，没有倍率套路                    | 暂无   |
+| 闪电猫SPEEDCAT | [官网](https://webinv02.sc-aff.cc/auth/register?code=VfOmNcC2) | 主打快速稳定，全专线IPLC，没有倍率套路                    | 暂无   |
 | 红杏           |     [官网](https://wwd.h86x.com/#/register?code=QGoTw2nm)      | ❤️ 全IEPL专线！❤️ 全IEPL专线！❤️ 全IEPL专线！ | 暂无   |
 
 
