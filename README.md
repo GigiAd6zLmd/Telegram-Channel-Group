@@ -59,16 +59,6 @@
 |闪电猫-SPEEDCAT|[官网](https://webinv02.sc-aff.cc/auth/register?code=VfOmNcC2)|主打快速稳定，全专线IPLC，没有倍率套路|VfOmNcC2|
 |红杏|[官网](https://wwd.h86x.com/#/register?code=QGoTw2nm)|❤️❤️❤️ 全IEPL专线！❤️ 全IEPL专线！！❤️ 全IEPL专线！！！|QGoTw2nm|
 
-### 区块链交易所提币或者是购买USDT、币圈撸空投
-
-**❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
-
-**❗❗️️❗别用乱用网上的钱包接收款项，只有交易所里面的钱才不存在黑钱黑U❗️❗️❗️**
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 币安    |   [https://www.binance.com](https://accounts.maxweb.black/register?ref=199346549)   | 邀请码：**199346549**，币安交易所(持有bnb减免20%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
-| 欧易OKX    |   [https://www.okx.com](https://www.jingshieng.org/join/19826043)   |      欧易交易所(减免30%手续费)邀请码：**19826043** ，OKX Boost(20%减免手续费)邀请码：**GIGIFANLI**|
-
 
 ## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
 ![](https://i.imgur.com/Ba6epuD.png)
