@@ -10,17 +10,18 @@
 
 ### 搜索机器人(❗️中文用户名，例如『杜罗夫』只要是中文昵称就送USDT❗️英文名字和字母、拼音等没有收益❗️多使用以下搜索，否则玩不明白电报)
 
-| 名字 | 链接 | 功能描述 |
-| :--- | :---: | :--- |
-| SOSO搜索  |         [@soso](https://t.me/soso?start=a_7769080727)         |发送关键词来寻找群组、有趣频道或福利视频，好看的群组|
-| 极搜JiSou |      [@jisou](https://t.me/jisou1Bot?start=a_7769080727)      |发送关键词帮你轻松找到有趣的群组/频道、视频、音乐|
-|超级索引CJSY| [@CJSY](https://t.me/CJSY?start=7769080727)|TG必备神器，找到您感兴趣的群组、频道和机器人|
-| 快搜      | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7769080727) |发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻|
-| 极搜JiSo  |    [@jiso](https://t.me/jiso?start=a_7769080727)    |极搜JISO帮你找到有趣的群、频道、视频、音乐、电影、新闻|
-| Super搜索 |       [@Super](https://t.me/Super?start=ref-7769080727)       |查找群组、频道、影视、音乐或机器人|
-| 神马搜索  |      [@smss](https://t.me/smss?start=spread_7769080727)       |发送词语即可搜索关联群组与频道资源|
-| 搜索群①   | [@ssogoogle](https://t.me/ssogoogle) | 可以在里面搜索你想要的一切 |
-| 搜索群②   | [@ssobaidu](https://t.me/ssobaidu) | 可以在里面搜索你想要的一切 |
+| 名字       |                              链接                               | 功能描述                          |
+| :------- | :-----------------------------------------------------------: | :---------------------------- |
+| SOSO搜索   |         [@soso](https://t.me/soso?start=a_7769080727)         | 发送关键词来寻找群组、有趣频道或福利视频，好看的群组    |
+| 极搜JiSou  |      [@jisou](https://t.me/jisou1Bot?start=a_7769080727)      | 发送关键词帮你轻松找到有趣的群组/频道、视频、音乐     |
+| 超级索引CJSY |          [@CJSY](https://t.me/CJSY?start=7769080727)          | TG必备神器，找到您感兴趣的群组、频道和机器人       |
+| 快搜       | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7769080727) | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻   |
+| 极搜JiSo   |         [@jiso](https://t.me/jiso?start=a_7769080727)         | 极搜JISO帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| Super搜索  |       [@Super](https://t.me/Super?start=ref-7769080727)       | 查找群组、频道、影视、音乐或机器人             |
+| 神马搜索     |      [@smss](https://t.me/smss?start=spread_7769080727)       | 发送词语即可搜索关联群组与频道资源             |
+| 搜索群①     |             [@ssogoogle](https://t.me/ssogoogle)              | 帮你找到有趣的群、频道、视频、音乐、电影、新闻       |
+| 搜索群②     |              [@ssobaidu](https://t.me/ssobaidu)               | 发送关键词帮你轻松找到有趣的群组/频道、视频、音乐     |
+| 搜索群③     |          [@ssoyahoo](https://t.me/+Jeu2HTUFH6lhZjQ1)          | TG必备神器，找到您感兴趣的群组、频道和机器人       |
 
 ### 曝光不良频道，请勿轻信(Scammer)
 
