@@ -208,4 +208,4 @@ I am requesting for removal of account limitations.
 
 ## 更多参考资料
 
-- #### 喜欢本项目右上角点个（Star）吧！
+- #### 喜欢本项目右上角点个（Star）吧！！！
