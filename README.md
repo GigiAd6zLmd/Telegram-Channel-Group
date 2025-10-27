@@ -44,18 +44,18 @@
 | 临时情侣 | [https://t.me/+9UtuvRgMTGc5MmM0](https://t.me/+9UtuvRgMTGc5MmM0)|  骗子(Scammer)    |
 | 叔叔约我 | [https://t.me/+zaFgWOsUSPoyNWRk](https://t.me/+zaFgWOsUSPoyNWRk)|  骗子(Scammer)    |
 
-### 2025年稳定好用的机场推荐评测( #汇总 )
-  
-| 名字 | 链接 | 功能描述 | 评测详情 |
-| :--- | :---: | :--- | :--- |
-| 喵子加速器        |     [官网](https://fly.mzkxz.top/auth/register?code=B4w3)      | VPN首选！提供安全、稳定和快速的网络连接                    | 暂无   |
-| 宝贝云          |    [官网](https://web1.bby011.com/#/register?code=MXAqpLXS)    | 极致流畅丝滑享受，新疆可用，60+节点遍布全球           | 暂无   |
-| 星链云          |   [官网](https://starlinkcloud.icu/#/register?code=eBNPa762)   | 探索全球网络无限可能                               | 暂无   |
-| CC(可乐云)      |  [官网](https://cokeyun.buyzur.com/#/register?code=QmiZ4aHo)   | IPLC专线线路,专属客户端                           | 暂无   |
-| CC(最萌の云)     |   [官网](https://main.cute-cloud.de/register?code=BEj51dOv)    | 全独家隧道技术、智能接入点分配、先进的流媒体解锁                 | 暂无   |
-| 快柠檬Falemon   |          [官网](https://corelem.org/s/win110/rvijesy)          | 快如闪电，专为中国用户优化加速的优质网络中继 | 暂无   |
-| 闪电猫SPEEDCAT | [官网](https://webinv02.sc-aff.cc/auth/register?code=VfOmNcC2) | 主打快速稳定，全专线IPLC，没有倍率套路                    | 暂无   |
-| 红杏           |     [官网](https://wwd.h86x.com/#/register?code=QGoTw2nm)      | ❤️ 全IEPL专线！❤️ 全IEPL专线！❤️ 全IEPL专线！ | 暂无   |
+### 2025年稳定好用的机场推荐评测( #汇总 ) 点名字看机场简介
+
+| 名字 | 官方网址 | 试用 | 最便宜订阅 | 群 | 详情 |
+| :---: | :---: | :--- | :--- | :--- | :--- |
+|[喵子科学站](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn?tab=readme-ov-file#%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99) | [官网](https://fly.mzkxz.top/auth/register?code=B4w3) |15G/3天|19.90元/月|[@mzkxzChat](https://t.me/mzkxzChat)| [详情评测](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%E2%9C%88%EF%B8%8F%E3%80%90%E9%A1%B6%E7%BA%A7%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E3%80%91%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%20-%20%E4%BE%BF%E5%AE%9C%E5%AE%9E%E6%83%A0%E3%80%81%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E3%80%81%E7%A8%B3%E5%AE%9A%E5%8F%AF%E9%9D%A0.md#%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%E8%AF%A6%E7%BB%86%E8%AF%84%E6%B5%8B) |
+|宝贝云|[官网](https://web1.bby011.com/#/register?code=MXAqpLXS)|暂无|暂无|
+|星链云|[官网](https://starlinkcloud.icu/#/register?code=eBNPa762)|暂无|暂无|
+|CC(可乐云)|[官网](https://cokeyun.buyzur.com/#/register?code=QmiZ4aHo)|暂无|暂无|
+|CC(最萌の云)|[官网](https://main.cute-cloud.de/register?code=BEj51dOv)|暂无|暂无|
+|快柠檬Falemon|[官网](https://corelem.org/s/win110/rvijesy)|暂无|暂无|
+|闪电猫SPEEDCAT|[官网](https://webinv02.sc-aff.cc/auth/register?code=VfOmNcC2) |暂无|暂无|
+|红杏|[官网](https://wwd.h86x.com/#/register?code=QGoTw2nm)|暂无|暂无|
 
 
 ### Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
