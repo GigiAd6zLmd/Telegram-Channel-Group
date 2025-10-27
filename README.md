@@ -44,7 +44,7 @@
 | 临时情侣 | [https://t.me/+9UtuvRgMTGc5MmM0](https://t.me/+9UtuvRgMTGc5MmM0)|  骗子(Scammer)    |
 | 叔叔约我 | [https://t.me/+zaFgWOsUSPoyNWRk](https://t.me/+zaFgWOsUSPoyNWRk)|  骗子(Scammer)    |
 
-### 2025年稳定好用的机场推荐评测( #汇总 ) 点名字看机场简介
+### 2025年稳定好用的机场推荐评测( # [简评](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E4%BE%BF%E5%AE%9C%E5%A5%BD%E7%94%A8%E7%9A%84%E7%BF%BB%E5%A2%99%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%84%E6%B5%8B%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%AC%A2%E8%BF%8E%E6%8E%A8%E8%8D%90) ) 点名字看机场简介
 
 | 名字 | 官方网址 | 试用 | 最便宜订阅 | 群 | 详情 |
 | :---: | :---: | :--- | :--- | :--- | :--- |
