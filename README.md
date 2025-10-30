@@ -211,6 +211,11 @@ I am requesting for removal of account limitations.
 *   搬瓦工 (BandwagonHost):[https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)
 *   Surge 交流:[https://t.me/loveapps](https://t.me/loveapps)
 *   Surge Pro:[https://t.me/SurgePro](https://t.me/SurgePro)
+*   Quantumult X:[https://t.me/QuanXApp](https://t.me/QuanXApp)
+*   Quantumult:[https://t.me/quantumult](https://t.me/quantumult)
+*   Loon:[https://t.me/Loon0x00](https://t.me/Loon0x00)
+*   LanceX:[https://t.me/lancex_app](https://t.me/lancex_app)
+*   Quantumult X、Surge、Loon 的脚本讨论:[https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w](https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w)
 
 ## 更多参考资料
 
