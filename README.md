@@ -216,6 +216,11 @@ I am requesting for removal of account limitations.
 *   Loon:[https://t.me/Loon0x00](https://t.me/Loon0x00)
 *   LanceX:[https://t.me/lancex_app](https://t.me/lancex_app)
 *   Quantumult X、Surge、Loon 的脚本讨论:[https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w](https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w)
+* thor，Quantumult X，小火箭 JSBox 交流群:[https://t.me/weixiaoge777](https://t.me/weixiaoge777)
+- Nexitally:[https://t.me/nexitallyusers](https://t.me/nexitallyusers)
+- ImmTelecom:[https://t.me/immtelecom_chat](https://t.me/immtelecom_chat)
+- 科学上网技术研究会:[https://t.me/kxswjs](https://t.me/kxswjs)
+- 科学上网，科技分享:[https://t.me/qiankeji](https://t.me/qiankeji)
 
 ## 更多参考资料
 
