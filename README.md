@@ -23,33 +23,12 @@
 | 搜索群②     |              [@ssobaidu](https://t.me/ssobaidu)               | 发送关键词帮你轻松找到有趣的群组/频道、视频、音乐     |
 | 搜索群③     |          [@ssoyahoo](https://t.me/+Jeu2HTUFH6lhZjQ1)          | TG必备神器，找到您感兴趣的群组、频道和机器人       |
 
-### 曝光不良频道，请勿轻信(Scammer)
-
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
-| 微信同城交友 | [https://t.me/+ZTtVz1cWzxEzYzVk](https://t.me/+ZTtVz1cWzxEzYzVk)|  骗子(Scammer)    |
-| 反差 | [https://t.me/+JDUoBJ5yrFs1MjQ8](https://t.me/+JDUoBJ5yrFs1MjQ8)|  骗子(Scammer)    |
-| 天天约 | [https://t.me/+_yvm-dKJM7U2MDU0](https://t.me/+_yvm-dKJM7U2MDU0)|  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+FuSyM-6rCbA2YzQ8](https://t.me/+FuSyM-6rCbA2YzQ8)|  骗子(Scammer)    |
-| 美女集中营 | [https://t.me/+XJHyUov3p8IyMTdh](https://t.me/+XJHyUov3p8IyMTdh)|  骗子(Scammer)    |
-| 万人骑 | [https://t.me/+Igb0DxrXmrIxNTFk](https://t.me/+Igb0DxrXmrIxNTFk)|  骗子(Scammer)    |
-| 每日大赛 | [https://t.me/+ZbqO2hPFCDkxMDI6](https://t.me/+ZbqO2hPFCDkxMDI6)|  骗子(Scammer)    |
-| 女大学生 | [https://t.me/+nkz2J9UO3shjMDI0](https://t.me/+nkz2J9UO3shjMDI0)|  骗子(Scammer)    |
-| 培训基地 | [https://t.me/+OuYaup_LwzA4Y2Fk](https://t.me/+OuYaup_LwzA4Y2Fk)|  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+LRIm2YaCzGw5N2Rk](https://t.me/+LRIm2YaCzGw5N2Rk)|  骗子(Scammer)    |
-| 红杏出墙 | [https://t.me/+SsGBTah77zNkYTRk](https://t.me/+SsGBTah77zNkYTRk)|  骗子(Scammer)    |
-| 贫困少女 | [https://t.me/+qwcHNtFiW6JmNGI8](https://t.me/+qwcHNtFiW6JmNGI8)|  骗子(Scammer)    |
-| 围场少女 | [https://t.me/+QnxR39vELHJiYzUy](https://t.me/+QnxR39vELHJiYzUy)|  骗子(Scammer)    |
-| 临时情侣 | [https://t.me/+9UtuvRgMTGc5MmM0](https://t.me/+9UtuvRgMTGc5MmM0)|  骗子(Scammer)    |
-| 叔叔约我 | [https://t.me/+zaFgWOsUSPoyNWRk](https://t.me/+zaFgWOsUSPoyNWRk)|  骗子(Scammer)    |
-
 ### 2025年稳定好用的机场推荐评测([简评](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E4%BE%BF%E5%AE%9C%E5%A5%BD%E7%94%A8%E7%9A%84%E7%BF%BB%E5%A2%99%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%84%E6%B5%8B%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%AC%A2%E8%BF%8E%E6%8E%A8%E8%8D%90)) 点名字看机场简介
 
 |                                                                 名字                                                                  |                             官方网址                             | 试用     | 最便宜订阅    | 群                                    | 详情                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | :---------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------: | :----- | :------- | :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [喵子科学站](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn?tab=readme-ov-file#%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99) |     [官网](https://fly.mzkxz.top/auth/register?code=B4w3)      | 15G/3天 | 19.90元/月 | [@mzkxzChat](https://t.me/mzkxzChat) | [前往](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%E2%9C%88%EF%B8%8F%E3%80%90%E9%A1%B6%E7%BA%A7%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E3%80%91%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%20-%20%E4%BE%BF%E5%AE%9C%E5%AE%9E%E6%83%A0%E3%80%81%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E3%80%81%E7%A8%B3%E5%AE%9A%E5%8F%AF%E9%9D%A0.md#%E5%96%B5%E5%AD%90%E7%A7%91%E5%AD%A6%E7%AB%99%E8%AF%A6%E7%BB%86%E8%AF%84%E6%B5%8B) |
-|                                                                 宝贝云                                                                 |    [官网](https://web1.bby011.com/#/register?code=MXAqpLXS)    | 暂无     | 暂无       |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [宝贝云机场](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn?tab=readme-ov-file#%E5%AE%9D%E8%B4%9D%E4%BA%91%E6%9C%BA%E5%9C%BA) |    [官网](https://web1.bby011.com/#/register?code=MXAqpLXS)    | 无      | 15.00元/月 | [@bbyvpn](https://t.me/bbyvpn)       | [前往](https://github.com/GigiAd6zLmd/SSR-V2ray-Trojan-Clash-Vpn/blob/master/%E8%AF%84%E6%B5%8B/%E2%9C%88%EF%B8%8F%E8%80%81%E7%89%8C%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E3%80%90%E5%AE%9D%E8%B4%9D%E4%BA%91%E3%80%91-%20%E4%BE%BF%E5%AE%9C%E5%AE%9E%E6%83%A0%E3%80%81%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94.md#%E5%AE%9D%E8%B4%9D%E4%BA%91%E6%9C%BA%E5%9C%BA%E8%AF%A6%E7%BB%86%E8%AF%84%E6%B5%8B)                                                                   |
 |                                                                 星链云                                                                 |   [官网](https://starlinkcloud.icu/#/register?code=eBNPa762)   | 暂无     | 暂无       |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |                                                               CC(可乐云)                                                               |  [官网](https://cokeyun.buyzur.com/#/register?code=QmiZ4aHo)   | 暂无     | 暂无       |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |                                                              CC(最萌の云)                                                               |   [官网](https://main.cute-cloud.de/register?code=BEj51dOv)    | 暂无     | 暂无       |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -57,8 +36,29 @@
 |                                                             闪电猫SPEEDCAT                                                             | [官网](https://webinv02.sc-aff.cc/auth/register?code=VfOmNcC2) | 暂无     | 暂无       |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |                                                                 红杏                                                                  |     [官网](https://wwd.h86x.com/#/register?code=QGoTw2nm)      | 暂无     | 暂无       |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
+### 曝光不良频道，请勿轻信(Scammer)
+
+| 名字      |                                链接                                | 功能描述          |
+| :------ | :--------------------------------------------------------------: | :------------ |
+| 景福宫高端商务 | [https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl) | 真实性不清楚，请勿轻信上当 |
+| 微信同城交友  | [https://t.me/+ZTtVz1cWzxEzYzVk](https://t.me/+ZTtVz1cWzxEzYzVk) | 骗子(Scammer)   |
+| 反差      | [https://t.me/+JDUoBJ5yrFs1MjQ8](https://t.me/+JDUoBJ5yrFs1MjQ8) | 骗子(Scammer)   |
+| 天天约     | [https://t.me/+_yvm-dKJM7U2MDU0](https://t.me/+_yvm-dKJM7U2MDU0) | 骗子(Scammer)   |
+| 匿名配对    | [https://t.me/+FuSyM-6rCbA2YzQ8](https://t.me/+FuSyM-6rCbA2YzQ8) | 骗子(Scammer)   |
+| 美女集中营   | [https://t.me/+XJHyUov3p8IyMTdh](https://t.me/+XJHyUov3p8IyMTdh) | 骗子(Scammer)   |
+| 万人骑     | [https://t.me/+Igb0DxrXmrIxNTFk](https://t.me/+Igb0DxrXmrIxNTFk) | 骗子(Scammer)   |
+| 每日大赛    | [https://t.me/+ZbqO2hPFCDkxMDI6](https://t.me/+ZbqO2hPFCDkxMDI6) | 骗子(Scammer)   |
+| 女大学生    | [https://t.me/+nkz2J9UO3shjMDI0](https://t.me/+nkz2J9UO3shjMDI0) | 骗子(Scammer)   |
+| 培训基地    | [https://t.me/+OuYaup_LwzA4Y2Fk](https://t.me/+OuYaup_LwzA4Y2Fk) | 骗子(Scammer)   |
+| 匿名配对    | [https://t.me/+LRIm2YaCzGw5N2Rk](https://t.me/+LRIm2YaCzGw5N2Rk) | 骗子(Scammer)   |
+| 红杏出墙    | [https://t.me/+SsGBTah77zNkYTRk](https://t.me/+SsGBTah77zNkYTRk) | 骗子(Scammer)   |
+| 贫困少女    | [https://t.me/+qwcHNtFiW6JmNGI8](https://t.me/+qwcHNtFiW6JmNGI8) | 骗子(Scammer)   |
+| 围场少女    | [https://t.me/+QnxR39vELHJiYzUy](https://t.me/+QnxR39vELHJiYzUy) | 骗子(Scammer)   |
+| 临时情侣    | [https://t.me/+9UtuvRgMTGc5MmM0](https://t.me/+9UtuvRgMTGc5MmM0) | 骗子(Scammer)   |
+| 叔叔约我    | [https://t.me/+zaFgWOsUSPoyNWRk](https://t.me/+zaFgWOsUSPoyNWRk) | 骗子(Scammer)   |
 
 ### Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
+
 ![](https://i.imgur.com/Ba6epuD.png)
 
 1、三个方式开启:
