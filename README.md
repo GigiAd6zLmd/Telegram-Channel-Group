@@ -221,6 +221,11 @@ I am requesting for removal of account limitations.
 - ImmTelecom:[https://t.me/immtelecom_chat](https://t.me/immtelecom_chat)
 - 科学上网技术研究会:[https://t.me/kxswjs](https://t.me/kxswjs)
 - 科学上网，科技分享:[https://t.me/qiankeji](https://t.me/qiankeji)
+*   老王用户群:[https://t.me/wangvpn_users](https://t.me/wangvpn_users)
+*   老王讨论群:[https://t.me/wangvpn_user_chat](https://t.me/wangvpn_user_chat)
+*   几鸡:[https://t.me/ngcss](https://t.me/ngcss)
+*   嘿嘿嘿:[https://t.me/hellcell321](https://t.me/hellcell321)
+*   SSPanel 机场联盟:[https://t.me/SSUnion](https://t.me/SSUnion)
 
 ## 更多参考资料
 
