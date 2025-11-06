@@ -231,6 +231,11 @@ I am requesting for removal of account limitations.
 *   BGP 测速:[https://t.me/hxisj8whsv](https://t.me/hxisj8whsv)
 *   品云:[https://t.me/PinYunYes](https://t.me/PinYunYes)
 *   ShadowsocksR 讨论组:[https://t.me/ssrunofficial](https://t.me/ssrunofficial)****
+*   ShadowsocksR 讨论组 2 群:[https://t.me/chatssr](https://t.me/chatssr)
+*   Netch 游戏加速工具:[https://t.me/Netch_Discuss_Group](https://t.me/Netch_Discuss_Group)
+*   Pharos Pro For iOS:[https://t.me/Shadow_x_user_support](https://t.me/Shadow_x_user_support)
+*   Pharos Pro For Android:[https://t.me/joinchat/EthDYRQ80Clo_dj8e3PJnQ](https://t.me/joinchat/EthDYRQ80Clo_dj8e3PJnQ)
+*   ShadowRay:[https://t.me/ShadowRay](https://t.me/ShadowRay)
 
 ## 更多参考资料
 
