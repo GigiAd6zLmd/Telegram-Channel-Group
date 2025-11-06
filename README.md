@@ -226,6 +226,11 @@ I am requesting for removal of account limitations.
 *   几鸡:[https://t.me/ngcss](https://t.me/ngcss)
 *   嘿嘿嘿:[https://t.me/hellcell321](https://t.me/hellcell321)
 *   SSPanel 机场联盟:[https://t.me/SSUnion](https://t.me/SSUnion)
+*   Air-Universe 开源后端交流群:[https://t.me/Air_Universe](https://t.me/Air_Universe)
+*   LAMP 交流群:[https://t.me/qiushui2018](https://t.me/qiushui2018)
+*   BGP 测速:[https://t.me/hxisj8whsv](https://t.me/hxisj8whsv)
+*   品云:[https://t.me/PinYunYes](https://t.me/PinYunYes)
+*   ShadowsocksR 讨论组:[https://t.me/ssrunofficial](https://t.me/ssrunofficial)****
 
 ## 更多参考资料
 
