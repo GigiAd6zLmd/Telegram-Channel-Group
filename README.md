@@ -236,6 +236,11 @@ I am requesting for removal of account limitations.
 *   Pharos Pro For iOS:[https://t.me/Shadow_x_user_support](https://t.me/Shadow_x_user_support)
 *   Pharos Pro For Android:[https://t.me/joinchat/EthDYRQ80Clo_dj8e3PJnQ](https://t.me/joinchat/EthDYRQ80Clo_dj8e3PJnQ)
 *   ShadowRay:[https://t.me/ShadowRay](https://t.me/ShadowRay)
+* Project V(V2Ray):https://t.me/projectv2ray
+* Project X(Xray):https://t.me/projectXray
+* V2fly Official:https://t.me/v2fly_chat
+* V2Fly #Off-Topic:https://t.me/joinchat/GhXX_0zQFLOkjy9z81eQqg
+* v2rayN&G:https://t.me/v2rayN
 
 ## 更多参考资料
 
