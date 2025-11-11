@@ -241,6 +241,11 @@ I am requesting for removal of account limitations.
 * V2fly Official:https://t.me/v2fly_chat
 * V2Fly #Off-Topic:https://t.me/joinchat/GhXX_0zQFLOkjy9z81eQqg
 * v2rayN&G:https://t.me/v2rayN
+*   NobyDa Script:[https://t.me/joinchat/JtzRlVY-WyJPDavvhKjrbw](https://t.me/joinchat/JtzRlVY-WyJPDavvhKjrbw)
+*   老毛子 Padavan 固件自助交流群:[https://t.me/pdcn2](https://t.me/pdcn2)
+*   老毛子 Padavan 固件 iOS 自助交流群:[https://t.me/pdcn3](https://t.me/pdcn3)
+*   Wingy Halal Group:[https://t.me/wingytg](https://t.me/wingytg)
+*   WireGuard:[https://t.me/WireGuard](https://t.me/WireGuard)
 
 ## 更多参考资料
 
