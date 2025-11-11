@@ -246,6 +246,11 @@ I am requesting for removal of account limitations.
 *   老毛子 Padavan 固件 iOS 自助交流群:[https://t.me/pdcn3](https://t.me/pdcn3)
 *   Wingy Halal Group:[https://t.me/wingytg](https://t.me/wingytg)
 *   WireGuard:[https://t.me/WireGuard](https://t.me/WireGuard)
+*   VPN 讨论群:[https://t.me/gouwu](https://t.me/gouwu)
+*   SockBoom 咕咕咕交流群:[https://t.me/sockboom](https://t.me/sockboom)
+*   Python 云 - 一个学习 py 的公益机场:[https://t.me/pythonyun](https://t.me/pythonyun)
+*   NyanCAT Group:[https://t.me/NyanCaaaat](https://t.me/NyanCaaaat)
+*   梦迪 mdssCloud:[https://t.me/mdssios](https://t.me/mdssios)
 
 ## 更多参考资料
 
