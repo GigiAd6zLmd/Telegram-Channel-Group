@@ -251,6 +251,11 @@ I am requesting for removal of account limitations.
 *   Python 云 - 一个学习 py 的公益机场:[https://t.me/pythonyun](https://t.me/pythonyun)
 *   NyanCAT Group:[https://t.me/NyanCaaaat](https://t.me/NyanCaaaat)
 *   梦迪 mdssCloud:[https://t.me/mdssios](https://t.me/mdssios)
+*   Catnet:[https://t.me/justanode_official](https://t.me/justanode_official)
+*   次元链接:[https://t.me/cylink](https://t.me/cylink)
+*   MunClolud:[https://t.me/joinchat/E5UhwEOdb4UtA_VbonoxDw](https://t.me/joinchat/E5UhwEOdb4UtA_VbonoxDw)
+*   Flysocks-Server:[https://t.me/flysocks](https://t.me/flysocks)
+*   loriCloud:[https://t.me/loricloud](https://t.me/loricloud)
 
 ## 更多参考资料
 
