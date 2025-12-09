@@ -336,6 +336,11 @@ I am requesting for removal of account limitations.
 *   河南周口:[https://t.me/zhoukou](https://t.me/zhoukou)
 *   杭州电报群|杭州茶馆:[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)
 
+### 脚本
+
+*   Bigo社区群:[https://t.me/bigo_tool](https://t.me/bigo_tool)
+*   Fragment账号实时报价:[https://t.me/Fragment_Monitor](https://t.me/Fragment_Monitor)
+
 ## 更多参考资料
 
 - #### 喜欢本项目右上角点个（Star）吧！！！
