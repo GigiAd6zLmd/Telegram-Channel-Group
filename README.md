@@ -341,6 +341,12 @@ I am requesting for removal of account limitations.
 *   Bigo社区群:[https://t.me/bigo_tool](https://t.me/bigo_tool)
 *   Fragment账号实时报价:[https://t.me/Fragment_Monitor](https://t.me/Fragment_Monitor)
 
+### 京豆
+
+*   jdShareCode:[https://t.me/jdShareCode](https://t.me/jdShareCode)
+*   PKC皮卡车:[https://t.me/topstyle996](https://t.me/topstyle996)
+*   Leeco-雪花社:[https://t.me/xuehuashe](https://t.me/xuehuashe)
+
 ## 更多参考资料
 
 - #### 喜欢本项目右上角点个（Star）吧！！！
