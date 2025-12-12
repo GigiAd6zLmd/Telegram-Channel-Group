@@ -205,7 +205,13 @@ I am requesting for removal of account limitations.
 | B站视频下载       | [@bilifeedbot](https://t.me/bilifeedbot)     | B站下载                                 |
 | Pixiv下载          | [@Pixiv_bot](https://t.me/Pixiv_bot)          | Pixiv下载                                |
 | 电影搜索机器人     | [@Cctv365bot](https://t.me/Cctv365bot)        | 电影搜索机器人                          |
+
+### 常用机器人
+
+🔥Telegram专门的机器人合集🔥：[https://github.com/GigiAd6zLmd/Telegram-Channel-Group](https://github.com/GigiAd6zLmd/Telegram-Channel-Group)
+
 ### 翻墙
+
 *   Shadowsocks&Clash:[https://t.me/shadowsocks_clash](https://t.me/shadowsocks_clash)
 *   不良林:[https://t.me/buliang00](https://t.me/buliang00)
 *   搬瓦工 (BandwagonHost):[https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)
