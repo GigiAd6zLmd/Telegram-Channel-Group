@@ -267,6 +267,11 @@ I am requesting for removal of account limitations.
 *   永久公益机场:[https://t.me/AC_FFree](https://t.me/AC_FFree)
 *   大水比交流群:[https://t.me/hxisj8whsv](https://t.me/hxisj8whsv)
 *   大佬吹牛群:[https://t.me/xddos0](https://t.me/xddos0)
+*   少数人 TG 交流群:[https://t.me/shaoshurenx](https://t.me/shaoshurenx)
+*   DLK 的奔放交流时间:[https://t.me/dlkvpn](https://t.me/dlkvpn)
+*   泡泡云:[https://t.me/popocloud](https://t.me/popocloud)
+*   Mac 翻墙・SpechtLite 交流群:[https://t.me/SpechtLite](https://t.me/SpechtLite)
+*   GFW 吐槽 && 翻墙方法讨论:[https://t.me/DiscussCrossGFW](https://t.me/DiscussCrossGFW)
 
 ### Telegram
 
