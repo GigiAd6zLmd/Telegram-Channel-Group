@@ -277,6 +277,11 @@ I am requesting for removal of account limitations.
 *   Kitsunebi 交流:[https://t.me/Kitsunebi_funs](https://t.me/Kitsunebi_funs)
 *   精品免费翻墙 app 推荐:[https://t.me/fuckyougfw](https://t.me/fuckyougfw)
 *   SSTap Rule:[https://t.me/SSTapRule](https://t.me/SSTapRule)
+*   几鸡 - 小圈自用公益机场:[https://t.me/lisuanlaoji](https://t.me/lisuanlaoji)
+*   vAgent 云计算加速服务:[https://t.me/crossgreatfirewall](https://t.me/crossgreatfirewall)
+*   ss panel v3 mod 非官方水群:[https://t.me/SSUnion](https://t.me/SSUnion)
+*   小布吉岛闲聊群:[https://t.me/bujidaochat](https://t.me/bujidaochat)
+*   OKAB3 吹水:[https://t.me/OKAB3Script](https://t.me/OKAB3Script)
 
 ### Telegram
 
