@@ -56,6 +56,21 @@
 |                                                             快柠檬Falemon                                                              |          [官网](https://corelem.org/s/win110/rvijesy)          | 暂无     | 暂无       |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |                                                             闪电猫SPEEDCAT                                                             | [官网](https://webinv02.sc-aff.cc/auth/register?code=VfOmNcC2) | 暂无     | 暂无       |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |                                                                 红杏                                                                  |     [官网](https://wwd.h86x.com/#/register?code=QGoTw2nm)      | 暂无     | 暂无       |                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+#### 协助管理群组机器人验证
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 按钮机器人      | [@xiunvanniubot](https://t.me/xiunvanniubot)       | 轻松实现按钮广告，方便引流推广挣钱，[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)  |
+| 验证机器人      | [@P4CaptchaBot](https://t.me/P4CaptchaBot)       | 验证机器人，四个汉字验证码  |
+| 验证机器人      | [@group_confirmation_bot](https://t.me/group_confirmation_bot)       | 验证机器人，四个汉字验证码  |
+| 加群验证,杀广告   | [@tgcnjoincaptchabot](https://t.me/tgcnjoincaptchabot)        | 加群验证,杀广告      |
+| reCAPTCHA 验证码      | [@TGreCAPTCHABot](https://t.me/TGreCAPTCHABot)       | 给 Telegram 群组用的 reCAPTCHA 验证码  |
+| 加群验证码      | [@jqs7zweibot](https://t.me/jqs7zweibot)       | 加群验证码  |
+| 自定义问题加群验证      | [@policr_bot](https://t.me/policr_bot)       | 加群验证,用户可以自定义问题  |
+| 欢迎消息，消息自毁，进群验证      | [@FengDoorBot](https://t.me/FengDoorBot)       | 欢迎消息，消息自毁，进群验证  |
+| 进群验证问题   | [@orgrobot](https://t.me/orgrobot)        | 进群验证问题,群管可自定义验证问题,以后可能收费      |
+| 谷歌人机验证      | [@fuckuspambot](https://t.me/fuckuspambot)       | 过滤机器人已经支持入群的时候使用谷歌人机验证了。  |
+| 入群验证bot      | [@shieldy_bot](https://t.me/shieldy_bot)       | 入群验证bot  |
+| 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
 
 ### Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
 
