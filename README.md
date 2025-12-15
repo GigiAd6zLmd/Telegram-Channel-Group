@@ -272,6 +272,11 @@ I am requesting for removal of account limitations.
 *   泡泡云:[https://t.me/popocloud](https://t.me/popocloud)
 *   Mac 翻墙・SpechtLite 交流群:[https://t.me/SpechtLite](https://t.me/SpechtLite)
 *   GFW 吐槽 && 翻墙方法讨论:[https://t.me/DiscussCrossGFW](https://t.me/DiscussCrossGFW)
+*   VPS 全球主機交流:[https://t.me/VPSchat](https://t.me/VPSchat)
+*   BIS 科学上网:[https://t.me/BISproject](https://t.me/BISproject)
+*   Kitsunebi 交流:[https://t.me/Kitsunebi_funs](https://t.me/Kitsunebi_funs)
+*   精品免费翻墙 app 推荐:[https://t.me/fuckyougfw](https://t.me/fuckyougfw)
+*   SSTap Rule:[https://t.me/SSTapRule](https://t.me/SSTapRule)
 
 ### Telegram
 
