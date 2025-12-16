@@ -297,6 +297,11 @@ I am requesting for removal of account limitations.
 *   ss panel v3 mod 非官方水群:[https://t.me/SSUnion](https://t.me/SSUnion)
 *   小布吉岛闲聊群:[https://t.me/bujidaochat](https://t.me/bujidaochat)
 *   OKAB3 吹水:[https://t.me/OKAB3Script](https://t.me/OKAB3Script)
+*   Official Geph Users 迷霧通官方用戶群:[https://t.me/gephusers](https://t.me/gephusers)
+*   ExCloud:[https://t.me/excloud](https://t.me/excloud)
+*   AK’s Tech Studio:[https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ](https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ)
+*   章鱼哥的 SSPanel 之家:[https://t.me/woaizyg](https://t.me/woaizyg)
+*   枫之谷加速:[https://t.me/fzgjs](https://t.me/fzgjs)
 
 ### Telegram
 
