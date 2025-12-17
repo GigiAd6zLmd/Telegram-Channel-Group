@@ -302,6 +302,10 @@ I am requesting for removal of account limitations.
 *   AK’s Tech Studio:[https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ](https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ)
 *   章鱼哥的 SSPanel 之家:[https://t.me/woaizyg](https://t.me/woaizyg)
 *   枫之谷加速:[https://t.me/fzgjs](https://t.me/fzgjs)
+*   VPS 信号旗情报本部:[https://t.me/vps_xinhaoqi](https://t.me/vps_xinhaoqi)
+*   小火箭 / 圈叉非官方群，Shadowrocke/QX:[https://t.me/shadowrocket_unofficial](https://t.me/shadowrocket_unofficial)
+*   中信加速器 VPN 官方群:[https://t.me/zxfast](https://t.me/zxfast)
+*   火箭写书:[https://t.me/woicesu](https://t.me/woicesu)
 
 ### Telegram
 
