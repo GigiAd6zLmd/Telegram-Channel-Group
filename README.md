@@ -307,6 +307,14 @@ I am requesting for removal of account limitations.
 *   中信加速器 VPN 官方群:[https://t.me/zxfast](https://t.me/zxfast)
 *   火箭写书:[https://t.me/woicesu](https://t.me/woicesu)
 
+### 软件
+
+*   Microsoft users:[https://t.me/Microsofthelp](https://t.me/Microsofthelp)
+*   捷径 Shortcuts:[https://t.me/SiriShortcuts](https://t.me/SiriShortcuts)
+*   捷径社区:[https://t.me/shortcuts_cn](https://t.me/shortcuts_cn)
+*   Snipaste:[https://t.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ](https://t.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ)
+*   Snipaste Discuss:[https://t.me/joinchat/BGyWwEDqrqiwizDA6gt16g](https://t.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
+
 ### Telegram
 
 *   Durov’s Chat:[https://t.me/durovschat](https://t.me/durovschat)
