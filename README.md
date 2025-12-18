@@ -316,6 +316,11 @@ I am requesting for removal of account limitations.
 *   捷径社区:[https://t.me/shortcuts_cn](https://t.me/shortcuts_cn)
 *   Snipaste:[https://t.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ](https://t.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ)
 *   Snipaste Discuss:[https://t.me/joinchat/BGyWwEDqrqiwizDA6gt16g](https://t.me/joinchat/BGyWwEDqrqiwizDA6gt16g)
+*   Price Tag:[https://t.me/pricetagapp](https://t.me/pricetagapp)
+*   App 种草群:[https://t.me/appfoundgroup](https://t.me/appfoundgroup)
+*   版本控:[https://t.me/nextnb](https://t.me/nextnb)
+*   Chrome:[https://t.me/ChromeCN](https://t.me/ChromeCN)
+*   MWeb 及相关讨论:[https://t.me/mwebapp](https://t.me/mwebapp)
 
 ### Telegram
 
