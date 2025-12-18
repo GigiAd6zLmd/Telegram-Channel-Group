@@ -306,6 +306,8 @@ I am requesting for removal of account limitations.
 *   小火箭 / 圈叉非官方群，Shadowrocke/QX:[https://t.me/shadowrocket_unofficial](https://t.me/shadowrocket_unofficial)
 *   中信加速器 VPN 官方群:[https://t.me/zxfast](https://t.me/zxfast)
 *   火箭写书:[https://t.me/woicesu](https://t.me/woicesu)
+*   SSRSpeed N 使用交流:[https://t.me/SSRSpeedN](https://t.me/SSRSpeedN)
+*   iQZone:[https://t.me/iQ_Zone](https://t.me/iQ_Zone)
 
 ### 软件
 
