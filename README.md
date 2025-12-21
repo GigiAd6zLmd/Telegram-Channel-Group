@@ -321,6 +321,11 @@ I am requesting for removal of account limitations.
 *   版本控:[https://t.me/nextnb](https://t.me/nextnb)
 *   Chrome:[https://t.me/ChromeCN](https://t.me/ChromeCN)
 *   MWeb 及相关讨论:[https://t.me/mwebapp](https://t.me/mwebapp)
+*   MOZE 官方群:[https://t.me/mozeapp](https://t.me/mozeapp)
+*   岁寒输入法交流:[https://t.me/SuiHanIME](https://t.me/SuiHanIME)
+*   HyperApp:[https://t.me/hyperapp](https://t.me/hyperapp)
+*   Docker:[https://t.me/dockertutorial](https://t.me/dockertutorial)
+*   Pin:[https://t.me/PinTG](https://t.me/PinTG)
 
 ### Telegram
 
